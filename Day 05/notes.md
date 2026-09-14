@@ -1,20 +1,34 @@
-# Day 5
+---
+aliases: [Programming Fundamentals - Day 05]
+tags: [programming-fundamentals, term1]
+course: "[[Programming Fundamentals]]"
+---
 
-git Branch
-git remote
-git push
-git status
+# Programming Fundamentals — Day 5: Git & Conditionals
 
+## [[Git Basics|Git]]
+- `git branch`
+- `git remote`
+- `git push`
+- `git status`
+
+## [[Conditionals]]
+```python
 if
 elif
 else
+```
 
-== : equal to
-!= : not equal 
- : greater than
- : less than
- >= : less or equal to 
- 
- >= : greater or equal 
- 
- and 
+### Comparison Operators
+| Operator | Meaning |
+|---|---|
+| `==` | Equal to |
+| `!=` | Not equal to |
+| `>` | Greater than |
+| `<` | Less than |
+| `>=` | Greater than or equal to |
+| `<=` | Less than or equal to |
+
+### Boolean Operators (notes cut off here)
+- `and`
+- *(class ended before `or` got covered — worth confirming against the lesson slides)*

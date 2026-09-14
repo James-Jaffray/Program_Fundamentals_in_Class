@@ -1,26 +1,28 @@
-# Day 2
-Data Types:
+---
+aliases: [Programming Fundamentals - Day 02]
+tags: [programming-fundamentals, term1]
+course: "[[Programming Fundamentals]]"
+---
 
-String: str() - words
-Integers: int() - whole numbers
-floats: float() - numb w/ decimals
+# Programming Fundamentals — Day 2: Data Types & Operators
 
+## [[Data Types]]
+- `str()` — words (text)
+- `int()` — whole numbers
+- `float()` — numbers with decimals
 
-Math operations:
+## Math Operations
+- Addition: `+`
+- Subtraction: `-`
+- Multiplication: `*`
+- Division: `/` (returns a float)
+- Exponent: `**`
+- Modulus: `%` (remainder)
+- Floor division: `//` (integer division)
 
-Addition: + 
-Subtraction: - 
-Multiplication: * 
-Division: / (returns a float) 
-Exponent: Modulus: % (remainder) Floor 
-Division: (integer division)
-
-
-Changing Data types:
+## Changing Data Types
 ![[Pasted image 20260904111051.png]]
 
-
-_____________
-overloaded operators are symbols that have more than one purpose
-
-Snake Case
+## Other Notes
+- **Overloaded operators** — symbols that have more than one purpose (e.g. `+` for both addition and string concatenation)
+- **Snake case** — Python's naming convention (`like_this`)

@@ -1,46 +1,36 @@
-# Day 1
-Language = Python
+---
+aliases: [Programming Fundamentals - Day 01]
+tags: [programming-fundamentals, term1]
+course: "[[Programming Fundamentals]]"
+---
 
-oop = object oriented programming
+# Programming Fundamentals — Day 1: Course Intro
 
-Code review after assignments - where Rob goes through your code and asks questions
+- **Language:** Python
+- [[Object-Oriented Programming|OOP]] = object-oriented programming
 
-Penalty breakdown
-0% Reduction
- You can clearly explain your code
- You understand what it does and why you wrote it
+## Code Review
+After assignments, Rob goes through your code and asks questions. The grading penalty depends on how well you can explain it:
 
-20% Reduction
- You can answer basic questions
- You struggle to explain expected outputs or deeper behavior
+| Penalty | Criteria |
+|---|---|
+| 0% | You can clearly explain your code — you understand what it does and why you wrote it |
+| 20% | You can answer basic questions, but struggle to explain expected outputs or deeper behavior |
+| 40% | You can't explain how your code works, can't predict expected outputs, code structure looks inconsistent/unjustified, or you're not present for the review |
 
-40% Reduction
- You cannot explain how your code works
- You cannot predict expected outputs
- Your code structure appears inconsistent or unjustified
- You are not present for the Code Review
+> Keep comments for yourself while working, but clean them up / remove them before submission.
 
+## Style
+- **PEP 8** — [python style guide](https://peps.python.org/pep-0008/)
 
-In code assignments - keep comments for yourself but clean up comments and remove them for submission
+## Homework
+- Install Python
 
-MODULE 1
-
-Style - PEP 8
-https://peps.python.org/pep-0008/
-
-Homework - Install python
-
-UI/UX:
-- HTML
-- css
-- bootstrap (minimal)
-Frontend Dev:
-- JS
-Logic & problem solving:
-- Pseudo Code (not language)
-Database Fundamentals:
-- SQL
-Programming Fundamentals:
-- Python
-
-
+## What Each Term 1 Course Covers
+| Course | Language/Tool |
+|---|---|
+| UI-UX | HTML, CSS, (minimal) Bootstrap |
+| Front End Dev | JS |
+| Logic & Problem-Solving | Pseudocode (not a specific language) |
+| Database Fundamentals | SQL |
+| Programming Fundamentals | Python |
