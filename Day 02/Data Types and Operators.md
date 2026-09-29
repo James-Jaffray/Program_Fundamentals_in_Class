@@ -6,6 +6,8 @@ course: "[[Programming Fundamentals]]"
 
 # Programming Fundamentals — Day 2: Data Types & Operators
 
+**Today's focus:** learn Python's basic data types, math operators, and naming conventions.
+
 ## [[Data Types]]
 - `str()` — words (text)
 - `int()` — whole numbers
@@ -26,3 +28,10 @@ course: "[[Programming Fundamentals]]"
 ## Other Notes
 - **Overloaded operators** — symbols that have more than one purpose (e.g. `+` for both addition and string concatenation)
 - **Snake case** — Python's naming convention (`like_this`)
+
+## To Know
+- `/` always returns a float; use `//` for integer division
+
+
+## Reflection
+*What was the most surprising insight today?*

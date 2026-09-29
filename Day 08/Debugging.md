@@ -1,36 +1,48 @@
+---
+aliases: [Programming Fundamentals - Day 08 Debugging]
+tags: [programming-fundamentals, term1, python]
+course: "[[Programming Fundamentals]]"
+---
 
-## Common Debugger  Commands
+# Programming Fundamentals — Day 8: Debugging
 
-Command            Action
-n or next              Run the next line of code
-s or step               Step into a function call
-c or continue        Continue running until the next breakpoint or end
-l or list                   List the surrounding code lines
-p or print              Print the value of a variable 
-quit                Exit the debugger
+**Today's focus:** step through code with the Python debugger (`pdb`).
 
+## [[Debugging in Python|Debugger]] Commands
 
-## Inspecting Variable
+| Command | Action |
+|---|---|
+| `n` / `next` | Run the next line of code |
+| `s` / `step` | Step into a function call |
+| `c` / `continue` | Continue running until the next breakpoint or end |
+| `l` / `list` | List the surrounding code lines |
+| `p` / `print` | Print the value of a variable |
+| `quit` | Exit the debugger |
 
-- While paused at a breakpoint, you can check the value of variables
-
+## Inspecting Variables
+While paused at a breakpoint, you can check the value of variables:
+```
 (Pdb) x
 10
 (Pdb) y
-5 (Pdb) result
+5
+(Pdb) result
+NameError: name 'result' is not defined
+```
+(`result` isn't defined yet at this point in the program, hence the error.)
 
-NameError: name 'result' is not defned
-
-- You can also change variable values to test different scenarios:
+You can also **change** variable values to test different scenarios:
+```
 (Pdb) x = 20
 (Pdb) n
+```
 
 ## Stepping Through Code
+- `n` (next) — execute the next line
+- `s` (step) — step into a function call
+- `c` (continue) — run until the next breakpoint or end of the program
 
-- Use n (next) to execute the next line
-- Use s (step) to step into a function call
-- Use c (continue) to run until the next breakpoint or end the program
+## Tips for Effective Debugging
+> *(section was left blank in the raw notes — add from the lesson when you have it)*
 
-
-## Tips for effective Debugging
-
+Related today: [[Python Lists]]

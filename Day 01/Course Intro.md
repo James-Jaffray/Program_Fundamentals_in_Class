@@ -6,6 +6,8 @@ course: "[[Programming Fundamentals]]"
 
 # Programming Fundamentals — Day 1: Course Intro
 
+**Today's focus:** get oriented — Python is the language, and code reviews decide how your grade is scored.
+
 - **Language:** Python
 - [[Object-Oriented Programming|OOP]] = object-oriented programming
 
@@ -27,6 +29,7 @@ After assignments, Rob goes through your code and asks questions. The grading pe
 - Install Python
 
 ## What Each Term 1 Course Covers
+
 | Course | Language/Tool |
 |---|---|
 | UI-UX | HTML, CSS, (minimal) Bootstrap |
@@ -34,3 +37,6 @@ After assignments, Rob goes through your code and asks questions. The grading pe
 | Logic & Problem-Solving | Pseudocode (not a specific language) |
 | Database Fundamentals | SQL |
 | Programming Fundamentals | Python |
+
+## Reflection
+*What was the most surprising insight today?*
