@@ -32,12 +32,13 @@ else
 | `>=` | Greater than or equal to |
 | `<=` | Less than or equal to |
 
-### Boolean Operators (notes cut off here)
-- `and`
-- *(class ended before `or` got covered — worth confirming against the lesson slides)*
+### Boolean Operators — [[Boolean Logic]]
+- `and` — both sides must be True
+- `or` — at least one side must be True
+- `not` — flips True/False (`not has_ticket == "y"` is the same as `has_ticket != "y"`)
 
 ## To Know
-- `or` and `not` weren't covered before class ended — confirm against the slides
+- `and`, `or`, `not` combine conditions; comparisons produce `True`/`False`
 
 
 ## Reflection
