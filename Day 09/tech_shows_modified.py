@@ -25,13 +25,8 @@ tv_shows[8] = "Black Mirror"
 print('Change "The Social Network" to "Black Mirror"')
 print(tv_shows[8])
 
-print(tv_shows[4:9])
 print('The top five shows are:')
-print(f'Ranked 1 is: {tv_shows[0]}')
-print(f'Ranked 1 is: {tv_shows[1]}')
-print(f'Ranked 1 is: {tv_shows[2]}')
-print(f'Ranked 1 is: {tv_shows[3]}')
-print(f'Ranked 1 is: {tv_shows[4]}')
-
-
-
+for idx, show in enumerate(tv_shows):
+    print(f'Ranked {idx + 1} is: {show}')
+    if (idx + 1) >= 5:
+        break
