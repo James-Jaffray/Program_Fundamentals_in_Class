@@ -98,4 +98,6 @@ Output: `Error: Cannot divide by zero!` — a bit more advanced, but useful for 
 ## Reflection
 *What was the most surprising insight today?*
 
+Cheatsheet: [[List Methods Cheatsheet]]
+
 Related today: [[Debugging in Python]], [[User Input and f-strings]]
