@@ -1,7 +1,7 @@
 ---
-aliases: [Programming Fundamentals - Day 17]
-tags: [programming-fundamentals, term1]
+tags: [programming-fundamentals, term1, placeholder]
 course: "[[Programming Fundamentals]]"
+day: 17
 ---
 
 # Programming Fundamentals — Day 17: 

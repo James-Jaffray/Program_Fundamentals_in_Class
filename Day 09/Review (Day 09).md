@@ -1,7 +1,8 @@
 ---
 aliases: [Programming Fundamentals - Day 09]
-tags: [programming-fundamentals, term1]
+tags: [programming-fundamentals, term1, lecture-notes, review]
 course: "[[Programming Fundamentals]]"
+day: 9
 ---
 
 # Programming Fundamentals — Day 09: Review
@@ -15,7 +16,7 @@ course: "[[Programming Fundamentals]]"
 - Lists → [[Python Lists]], [[Python Strings]]
 - Errors and the debugger → [[Common Python Errors]], [[Debugging in Python]]
 
-Everything is pulled together in [[Programming Fundamentals - Master Reference]].
+Everything is pulled together in [[Python Master Reference (Programming)]].
 
 ## To Know
 - `=` stores, `==` compares; `input()` returns a string

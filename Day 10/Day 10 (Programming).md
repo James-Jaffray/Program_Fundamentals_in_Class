@@ -1,10 +1,10 @@
 ---
-aliases: [Programming Fundamentals - Day 22]
-tags: [programming-fundamentals, term1]
+tags: [programming-fundamentals, term1, placeholder]
 course: "[[Programming Fundamentals]]"
+day: 10
 ---
 
-# Programming Fundamentals — Day 22: 
+# Programming Fundamentals — Day 10: 
 
 **Today's focus:** 
 

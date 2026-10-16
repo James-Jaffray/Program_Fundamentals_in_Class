@@ -1,7 +1,8 @@
 ---
 aliases: [Programming Fundamentals - Day 02]
-tags: [programming-fundamentals, term1]
+tags: [programming-fundamentals, term1, lecture-notes, python, data-types]
 course: "[[Programming Fundamentals]]"
+day: 2
 ---
 
 # Programming Fundamentals — Day 2: Data Types & Operators

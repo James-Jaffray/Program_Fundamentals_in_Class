@@ -1,7 +1,8 @@
 ---
 aliases: [Programming Fundamentals - Day 01]
-tags: [programming-fundamentals, term1]
+tags: [programming-fundamentals, term1, lecture-notes, intro, oop]
 course: "[[Programming Fundamentals]]"
+day: 1
 ---
 
 # Programming Fundamentals — Day 1: Course Intro

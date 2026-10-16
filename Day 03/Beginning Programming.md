@@ -1,7 +1,8 @@
 ---
 aliases: [Programming Fundamentals - Day 03]
-tags: [programming-fundamentals, term1, python]
+tags: [programming-fundamentals, term1, lecture-notes, python, input]
 course: "[[Programming Fundamentals]]"
+day: 3
 ---
 
 # Programming Fundamentals — Day 3: Beginning Programming

@@ -1,7 +1,7 @@
 ---
-aliases: [Programming Fundamentals - Master Reference]
-tags: [programming-fundamentals, term1, python, cheat-sheet]
+tags: [programming-fundamentals, term1, reference, python, cheat-sheet]
 course: "[[Programming Fundamentals]]"
+day: 9
 ---
 
 # Python Master Reference (Days 1–8)

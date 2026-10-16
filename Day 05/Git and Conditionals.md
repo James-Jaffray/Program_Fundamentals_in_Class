@@ -1,7 +1,8 @@
 ---
 aliases: [Programming Fundamentals - Day 05]
-tags: [programming-fundamentals, term1]
+tags: [programming-fundamentals, term1, lecture-notes, git, conditionals]
 course: "[[Programming Fundamentals]]"
+day: 5
 ---
 
 # Programming Fundamentals — Day 5: Git & Conditionals

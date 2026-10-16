@@ -1,7 +1,8 @@
 ---
 aliases: [List Methods Cheatsheet, Python List Methods]
-tags: [programming-fundamentals, term1, python, cheatsheet]
+tags: [programming-fundamentals, term1, cheat-sheet, python, lists]
 course: "[[Programming Fundamentals]]"
+day: 13
 ---
 
 # List Methods Cheatsheet
@@ -11,11 +12,11 @@ Quick reference for [[Python Lists]]. Most methods change the list **in place** 
 Examples use `colors = ["red", "green", "blue"]`.
 
 ## Add
-| Method | Does | Example → `colors` after |
-|---|---|---|
-| `.append(x)` | Add `x` to the end | `.append("black")` → `["red","green","blue","black"]` |
-| `.insert(i, x)` | Add `x` at index `i`, shifting the rest right | `.insert(1, "white")` → `["red","white","green","blue"]` |
-| `.extend(iterable)` | Add every item from another list | `.extend(["pink","gray"])` → `[..., "pink","gray"]` |
+| Method              | Does                                          | Example → `colors` after                                 |
+| ------------------- | --------------------------------------------- | -------------------------------------------------------- |
+| `.append(x)`        | Add `x` to the end                            | `.append("black")` → `["red","green","blue","black"]`    |
+| `.insert(i, x)`     | Add `x` at index `i`, shifting the rest right | `.insert(1, "white")` → `["red","white","green","blue"]` |
+| `.extend(iterable)` | Add every item from another list              | `.extend(["pink","gray"])` → `[..., "pink","gray"]`      |
 
 `append` adds **one** item (a list appended becomes a nested list); `extend` adds **each** item.
 
@@ -62,4 +63,4 @@ except ValueError:
     print("purple isn't in the list")
 ```
 
-Related: [[Common Python Errors]] (`IndexError`, `ValueError`), [[Programming Fundamentals - Day 13]]
+Related: [[Common Python Errors]] (`IndexError`, `ValueError`), [[Exceptions|Day 13]]

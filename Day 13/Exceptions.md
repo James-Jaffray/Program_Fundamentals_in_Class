@@ -1,7 +1,8 @@
 ---
 aliases: [Programming Fundamentals - Day 13]
-tags: [programming-fundamentals, term1, python]
+tags: [programming-fundamentals, term1, lecture-notes, python, exceptions]
 course: "[[Programming Fundamentals]]"
+day: 13
 ---
 
 # Programming Fundamentals — Day 13: Exceptions
@@ -98,6 +99,6 @@ Output: `Error: Cannot divide by zero!` — a bit more advanced, but useful for 
 ## Reflection
 *What was the most surprising insight today?*
 
-Cheatsheet: [[List Methods Cheatsheet]]
+Cheatsheet: [[List Methods Cheat Sheet|List Methods Cheatsheet]]
 
 Related today: [[Debugging in Python]], [[User Input and f-strings]]

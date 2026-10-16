@@ -1,7 +1,8 @@
 ---
 aliases: [Programming Fundamentals - Day 06]
-tags: [programming-fundamentals, term1, python]
+tags: [programming-fundamentals, term1, lecture-notes, python, conditionals]
 course: "[[Programming Fundamentals]]"
+day: 6
 ---
 
 # Programming Fundamentals — Day 6: Making Decisions

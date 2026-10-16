@@ -1,7 +1,8 @@
 ---
 aliases: [Programming Fundamentals - Day 07]
-tags: [programming-fundamentals, term1, python]
+tags: [programming-fundamentals, term1, lecture-notes, python, match-case]
 course: "[[Programming Fundamentals]]"
+day: 7
 ---
 
 # Programming Fundamentals — Day 7: Match Case

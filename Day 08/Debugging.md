@@ -1,7 +1,8 @@
 ---
 aliases: [Programming Fundamentals - Day 08 Debugging]
-tags: [programming-fundamentals, term1, python]
+tags: [programming-fundamentals, term1, lecture-notes, python, debugging]
 course: "[[Programming Fundamentals]]"
+day: 8
 ---
 
 # Programming Fundamentals — Day 8: Debugging
