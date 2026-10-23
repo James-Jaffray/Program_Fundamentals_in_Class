@@ -1,5 +1,5 @@
 ---
-tags: [programming-fundamentals, term1, reference, python, cheat-sheet]
+tags: [programming-fundamentals, term1, reference, python, reference-sheet]
 course: "[[Programming Fundamentals]]"
 day: 9
 ---

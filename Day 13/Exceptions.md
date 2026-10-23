@@ -99,6 +99,6 @@ Output: `Error: Cannot divide by zero!` — a bit more advanced, but useful for 
 ## Reflection
 *What was the most surprising insight today?*
 
-Cheatsheet: [[List Methods Cheat Sheet|List Methods Cheatsheet]]
+Reference Sheet: [[List Methods Reference Sheet|List Methods Reference Sheet]]
 
 Related today: [[Debugging in Python]], [[User Input and f-strings]]

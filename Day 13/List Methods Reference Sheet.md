@@ -1,11 +1,11 @@
 ---
-aliases: [List Methods Cheatsheet, Python List Methods]
-tags: [programming-fundamentals, term1, cheat-sheet, python, lists]
+aliases: [List Methods Reference Sheet, Python List Methods]
+tags: [programming-fundamentals, term1, reference-sheet, python, lists]
 course: "[[Programming Fundamentals]]"
 day: 13
 ---
 
-# List Methods Cheatsheet
+# List Methods Reference Sheet
 
 Quick reference for [[Python Lists]]. Most methods change the list **in place** and return `None` — don't write `colors = colors.sort()`.
 
