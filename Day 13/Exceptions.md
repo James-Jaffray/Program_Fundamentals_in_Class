@@ -93,9 +93,6 @@ Output: `Error: Cannot divide by zero!` — a bit more advanced, but useful for 
 - Order of `except` clauses doesn't matter for unrelated errors, but pick the **specific** type (`ValueError`) over `Exception`
 - Traceback → read the last line first ([[Common Python Errors]])
 
-## Homework
-- 
-
 ## Reflection
 *What was the most surprising insight today?*
 
