@@ -1,20 +1,8 @@
 ---
-tags: [programming-fundamentals, term1, placeholder]
+aliases: [Day 19 (Programming)]
+tags: [programming-fundamentals, term1, redirect]
 course: "[[Programming Fundamentals]]"
 day: 19
 ---
 
-# Programming Fundamentals — Day 19: 
-
-**Today's focus:** 
-
-## 
-
-## To Know
-- 
-
-## Homework
-- 
-
-## Reflection
-*What was the most surprising insight today?*
+Moved: see [[Reading and Writing Files]].

@@ -1,20 +1,8 @@
 ---
-tags: [programming-fundamentals, term1, placeholder]
+aliases: [Day 21 (Programming)]
+tags: [programming-fundamentals, term1, redirect]
 course: "[[Programming Fundamentals]]"
 day: 21
 ---
 
-# Programming Fundamentals — Day 21: 
-
-**Today's focus:** 
-
-## 
-
-## To Know
-- 
-
-## Homework
-- 
-
-## Reflection
-*What was the most surprising insight today?*
+Moved: see [[Classes and Objects]].
