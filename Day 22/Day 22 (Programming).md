@@ -1,20 +1,8 @@
 ---
-tags: [programming-fundamentals, term1, placeholder]
+aliases: [Day 22 (Programming)]
+tags: [programming-fundamentals, term1, redirect]
 course: "[[Programming Fundamentals]]"
 day: 22
 ---
 
-# Programming Fundamentals — Day 22: 
-
-**Today's focus:** 
-
-## 
-
-## To Know
-- 
-
-## Homework
-- 
-
-## Reflection
-*What was the most surprising insight today?*
+Moved: see [[Dictionaries, Files, CSV and Classes Summary]] and [[Dictionaries, Files, CSV and Classes Lesson Plan]].
